@@ -1,6 +1,10 @@
 # README
 This is a ReasonML Lambda serverless function based on [this tutorial](https://dev.to/kayis/10-easy-steps-to-create-aws-lambda-functions-with-the-serverless-framework--reason-in-aws-cloud9-8d1).
 
+# Version
+* NPM: 6.11.4
+    * Linux: ~/.nvm/versions/node/v6.11.4/bin/npm
+
 
 # Basic Reason Template
 

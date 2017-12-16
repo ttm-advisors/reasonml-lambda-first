@@ -1,0 +1,14 @@
+.DS_Store
+.merlin
+.bsb.lock
+npm-debug.log
+/.git
+/.serverless
+/lib
+/lib/bs/
+/my-first-service
+/node_modules/
+/src/demo.js
+/src/handler.js
+.merlin
+
